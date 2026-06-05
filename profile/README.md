@@ -33,8 +33,8 @@ Em ambientes corporativos sem uma ferramenta centralizada, solicitações de sup
 
 | Repositório | Descrição |
 |-------------|-----------|
-| [servicedesk-backend](./servicedesk-backend) | Servidor, regras de negócio, banco de dados e API REST |
-| [servicedesk-frontend](./servicedesk-frontend) | Interface do usuário consumindo a API do backend |
+| [ServiceDesk-Back](https://github.com/Service-Desk-Unisantos/ServiceDesk-Back) | Servidor, regras de negócio, banco de dados e API REST |
+| [ServiceDesk-Frontend](https://github.com/Service-Desk-Unisantos/ServiceDesk-Frontend) | Interface do usuário consumindo a API do backend |
 
 ---
 
