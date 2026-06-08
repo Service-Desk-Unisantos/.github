@@ -56,4 +56,17 @@ Este projeto foi desenvolvido como parte do curso de **Graduação em Sistemas d
 
 ---
 
+## Equipe
+
+| Nome | Email |
+|------|-------|
+| Caio Vinicius Silva Queiroz | caioqueiroz@unisantos.br |
+| Elais Macedo de Oliveira | elais@unisantos.br |
+| Fernanda Meireles | fernanda.meireles@unisantos.br |
+| Gabriel de Jesus Pereira da Silva | gabrieljesus@unisantos.br |
+| João Vitor Rocha Cardoso | joaoca@unisantos.br |
+| Matheus Moura dos Santos Farias | matheus.farias@unisantos.br |
+
+---
+
 *Unisantos — Santos, SP*
